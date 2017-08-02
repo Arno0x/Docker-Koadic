@@ -4,6 +4,6 @@ Written by @zerosum0x0: Koadic, or COM Command & Control, is a Windows post-expl
 
 To start the image in interactive mode:
   
-`docker run --rm -ti -p 9999:9999 arno0x0x/koadic`
+`docker run --rm -ti -p 9996-9999:9996-9999 arno0x0x/koadic`
   
 Project official repository is here: [Koadic on GitHub](https://github.com/zerosum0x0/koadic)
